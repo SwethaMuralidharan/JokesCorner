@@ -8,9 +8,7 @@ function App() {
   const jokesComponents = 
   filteredJokesData.map((joke)=>{
       return (
-
           <Joke key = {joke.id} question = {joke.question} punchLine = {joke.punchLine} />
-
       )
   })
   return (
