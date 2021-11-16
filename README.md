@@ -1,3 +1,9 @@
+# Output
+
+This project pulls jokesdata from a json file and displays jokes that only have some questions and answers. Using Map and filter functions.
+
+![Screen Shot 2021-11-16 at 3 49 35 PM](https://user-images.githubusercontent.com/33131658/142084282-35c65f4b-e4ac-4bb6-8241-1d6ac592cd96.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
